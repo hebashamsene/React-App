@@ -105,13 +105,15 @@ This project was created to practice:
 
 ## 🖥️ Project Preview
 
-![Screenshot 1](./screenshots/aaa.png)
+## 🖥️ Project Preview
 
-![Screenshot 2](./screenshots/jkk.png)
+![Screenshot 1](./screenshot.png/aaa.png)
 
-![Screenshot 3](./screenshots/xx.png)
+![Screenshot 2](./screenshot.png/jkk.png)
 
-![Screenshot 4](./screenshots/بدون%20عنوان.png)
+![Screenshot 3](./screenshot.png/xx.png)
+
+![Screenshot 4](./screenshot.png/بدون%20عنوان.png)
 
 ## 👩‍💻 Author
 
