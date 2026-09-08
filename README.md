@@ -95,7 +95,7 @@ This project was created to practice:
 
 ## 🖥️ Project Preview
 
-![React Loan Form](./screenshot.png)
+![React Loan Form](./src/screenshot/screenshot.png)
 
 ## 👩‍💻 Author
 
