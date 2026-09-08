@@ -103,7 +103,15 @@ This project was created to practice:
 
 ## 🖥️ Project Preview
 
-![React Loan Form](./screenshot/screenshot.png)
+## 🖥️ Project Preview
+
+![Screenshot 1](./screenshots/aaa.png)
+
+![Screenshot 2](./screenshots/jkk.png)
+
+![Screenshot 3](./screenshots/xx.png)
+
+![Screenshot 4](./screenshots/بدون%20عنوان.png)
 
 ## 👩‍💻 Author
 
