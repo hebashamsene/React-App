@@ -33,6 +33,7 @@ The application demonstrates how to manage form data and user interactions using
 React-App/
 │
 ├── public/
+│
 ├── src/
 │   ├── LoanProject/
 │   │   ├── LoanForm.js
@@ -44,8 +45,15 @@ React-App/
 │   ├── index.js
 │   └── index.css
 │
+├── screenshots/
+│   ├── screenshot1.png
+│   ├── screenshot2.png
+│   ├── screenshot3.png
+│   └── screenshot4.png
+│
+├── README.md
 ├── package.json
-└── README.md
+└── package-lock.json
 ```
 
 ## ⚙️ Installation
@@ -95,7 +103,7 @@ This project was created to practice:
 
 ## 🖥️ Project Preview
 
-![React Loan Form](./src/screenshot/screenshot.png)
+![React Loan Form](./screenshot/screenshot.png)
 
 ## 👩‍💻 Author
 
