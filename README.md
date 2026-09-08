@@ -93,6 +93,10 @@ This project was created to practice:
 * Styling React components with CSS
 * Organizing a React project
 
+## 🖥️ Project Preview
+
+![React Loan Form](./screenshot.png)
+
 ## 👩‍💻 Author
 
 **Heba Shamsene**
